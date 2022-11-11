@@ -1,6 +1,6 @@
 # FlaviaD# Portfolio
 ## Sobre mí
-Mi nombre es Flavia Díaz tengo 24 años y vivo en Maldonado, Uruguay. 
+Mi nombre es Flavia Díaz tengo 24 años y vivo en Maldonado, Uruguay. Soy apasionada por las tecnologías y aprender cosas nuevas. Me desataco por ser detallista, responsable y de actitud muy serena frente a situaciones estresantes. 
 
 ## Cursos
 **Tester de Software - Jóvenes a Programar (230hs):
